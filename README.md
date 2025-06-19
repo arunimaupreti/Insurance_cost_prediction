@@ -25,7 +25,7 @@ charges: Individual medical costs billed by health insurance (Target)
 Model: Support Vector Regression (SVR)
 We use SVR from Scikit-learn with RBF kernel to capture non-linear patterns in the data.
 
-🚀 Workflow Summary
+Workflow Summary
 Data Loading & Exploration
 Load the dataset, check missing values, and visualize correlations.
 
